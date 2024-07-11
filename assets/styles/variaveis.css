@@ -1,0 +1,7 @@
+:root{
+  --var-preto-fundo: hsl(0, 0%, 8%);
+  --var-branco-texto: hsl(0, 0%, 100%);
+  --var-cinza-preto: hsl(0, 0%, 20%);
+  --var-preto-hover-texto: hsl(0, 0%, 12%);
+  --var-verde-hover-campo: hsl(75, 94%, 57%);
+}
